@@ -1,0 +1,5 @@
+
+unzip /path/to/ngrok.zip
+./ngrok authtoken 1yre5DLYZiWvOh86zP3PKOXFa9g_7f6jbEncegSzqrbijf1vn
+./ngrok help
+./ngrok http 80
